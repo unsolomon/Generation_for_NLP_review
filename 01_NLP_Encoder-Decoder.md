@@ -1,11 +1,5 @@
 # 01_Encoder-Decoder.md
 
-## 📘 Lecture 1: Encoder / Decoder
-
-> 본 강의는 Transformer 계열 언어모델의 구조와 발전 흐름을 이해하고,  
-> Encoder, Decoder, Encoder-Decoder 모델의 차이를 중심으로 정리합니다.  
-> 또한 LLM 시대의 In-Context Learning, Human Alignment 등 주요 트렌드도 함께 다룹니다.
-
 ---
 
 ## 1️⃣ Encoder-Decoder / Encoder-only 모델
